@@ -1,6 +1,6 @@
 #pragma once
 #include "libmotioncapture/motioncapture.h"
-
+#include <map>
 namespace libmotioncapture {
   class MotionCaptureOptitrackImpl;
 
